@@ -58,3 +58,5 @@
     - how do people adjust things like this in PROD? 
     - looking forward to learning more and more about trade-offs with this!! 
 
+#### Did you go to Georgia Tech and Live in the Bay Area??
+I'm volunteering with the bay area GT alumni association and trying to reach more people. So if you're in this demographic and for some reason reading to the bottom of this github readme, please contact me - I want to add you to the list!!   🐝🐝

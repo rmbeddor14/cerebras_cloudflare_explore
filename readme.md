@@ -12,7 +12,7 @@
 - my demo uses two cloudflare workers 
 - one uses the standard ai package from cloudflare 
 - one uses the same structure, but uses Cerebras to request and answer the query 
-- both use a version of `llama-3-8b` model (the "No Cerebras" one uses `llama-3-8b-instruct`)
+- both use a version of `llama-3.1-8b` model (the "No Cerebras" one uses `llama-3-8b-instruct`) 
 
 #### Without Cerebras
 [![Watch the video](img/no_cerebras_screenshot.png)](https://www.youtube.com/watch?v=vTgv9_W19HU)

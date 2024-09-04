@@ -54,7 +54,7 @@
 - Does cerebras play a role in other ai applications that are not generative? (e.g. the instagram algo I'm addicted to)
 - make the text on the chatbot come through streaming (like chatgpt) instead of all at once so that it's a more interesting and less boring demo! 
 - maybe I should set my cloudflare worker to use like a certain NVIDIA cluster or something? or do another one that calls openAI's API? That way you would see a better comparison between the different hardware. Because right now I'm just using CloudFlare's free tier and it's probably not giving me as much hardware as the API from Cerebras is ? 
-    - how do i know what kind of hardware my "no cerebras" inference is running on? Is it thru the cloudflare api or through the worker? 
+    - how do i know what kind of hardware my "no cerebras" inference is running on? It seems like it's calling the CloudFlare ai api (not just running on the worker) - how does this impact our latency? 
     - how do people adjust things like this in PROD? 
     - looking forward to learning more and more about trade-offs with this!! 
 

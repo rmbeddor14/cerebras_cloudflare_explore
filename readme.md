@@ -4,7 +4,7 @@
 - I attended an evening event from CloudFlare, Weaviate, and Cerebras Event on 09-03-2024
 - I made this entire demo in like an hour and a half and I'm super proud of that! It goes without saying that a combination of gen ai tools wrote most of this code 😜
 - I didn't use Weaviate because I had already explored their software. But super grateful to Weaviate and their awesome Dev Advocate for hosting this event!! 
-- I was most interested in exploring the [Cerebras](https://cerebras.ai/) performance. This was not just because a certain gpu company's stock is funding my career break and I want to check out the competition (just kidding!!!) but also because I have a feeling that we are at the very, very beginning of ai adoption - as more and more businesses start adopting gen ai in their software and processes, the demand for inference will outpace the demand for training hardware. IDK I don't have a crystal ball though. 🔮
+- I was most interested in exploring the [Cerebras](https://cerebras.ai/) performance. This was not just because a certain gpu company's stock is funding my career break and I want to check out the competition (just kidding!!!) but also because I have a feeling that we are at the very, very beginning of ai adoption - as more and more businesses start adopting gen ai in their software and processes, the demand for inference will be just as strong as the demand for training hardware. Potentially. IDK I don't have a crystal ball though. 🔮
 - my intention isn't really to *compare* cloudflare and cerebras, just to explore here! There are so many factors involved that there is no way I could have made a true AB test in an hour! 
 
 

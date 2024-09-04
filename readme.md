@@ -15,7 +15,7 @@
 - both use a version of `llama-3-8b` model (the "No Cerebras" one uses `llama-3-8b-instruct`)
 
 #### Without Cerebras
-[![Watch the video](img/no_cerebras_screenshot.png)](https://youtu.be/R2KeB7jZKu8)
+[![Watch the video](img/no_cerebras_screenshot.png)](https://www.youtube.com/watch?v=vTgv9_W19HU)
 
 #### With Cerebras 
 [![Watch the video](img/with_cerebras.png)](https://youtu.be/R2KeB7jZKu8)

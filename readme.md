@@ -51,12 +51,14 @@
     - where is my bottleneck in each app? 
     - make an arch diagram for each! 
 - double check the instructions for how to run the code and update it so other people (even people without nodejs experience) can try! 
+- double check that those two models are the same (or comparable) and not accounting for the latency difference 
 - Does cerebras play a role in other ai applications that are not generative? (e.g. the instagram algo I'm addicted to)
 - make the text on the chatbot come through streaming (like chatgpt) instead of all at once so that it's a more interesting and less boring demo! 
 - maybe I should set my cloudflare worker to use like a certain NVIDIA cluster or something? or do another one that calls openAI's API? That way you would see a better comparison between the different hardware. Because right now I'm just using CloudFlare's free tier and it's probably not giving me as much hardware as the API from Cerebras is ? 
     - how do i know what kind of hardware my "no cerebras" inference is running on? It seems like it's calling the CloudFlare ai api (not just running on the worker) - how does this impact our latency? 
     - how do people adjust things like this in PROD? 
     - looking forward to learning more and more about trade-offs with this!! 
+
 
 #### Did you go to Georgia Tech and now you live in the Bay Area??
 I'm volunteering with the bay area GT alumni association and trying to reach more people. So if you're in this demographic and for some reason reading to the bottom of this github readme, please contact me - I want to add you to the list!!   🐝🐝

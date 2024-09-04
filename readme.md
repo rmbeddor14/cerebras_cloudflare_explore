@@ -24,9 +24,9 @@
 
 
 ### How to Run this Code
-- I need to double check this but I think what you do is the following
+
 - deploy a worker on cloudflare 
-- change the name in the `wrangler.toml` section of this code to the name of the worker 
+- change the name in the `wrangler.toml` section of this code to the name of the worker you just deployed
 - then: 
     ```
     npm install -g wrangler

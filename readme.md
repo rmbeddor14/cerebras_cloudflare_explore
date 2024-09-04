@@ -49,6 +49,7 @@
 - understand more deeply the differences between the two code bases (like the Cerebras one doesn't only do inference, right? how does this impact our outcome?) It's important to me to understand each difference so I can better evaluate Cerebras. 
     - how important is inference vs requesting? 
     - where is my bottleneck in each app? 
+    - make an arch diagram for each! 
 - double check the instructions for how to run the code and update it so other people (even people without nodejs experience) can try! 
 - Does cerebras play a role in other ai applications that are not generative? (e.g. the instagram algo I'm addicted to)
 - make the text on the chatbot come through streaming (like chatgpt) instead of all at once so that it's a more interesting and less boring demo! 
